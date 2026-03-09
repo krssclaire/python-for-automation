@@ -1,7 +1,10 @@
 # file that will never be uploaded
 /chapter10_reading-and-writing-files/spam.txt
+.env
 
 
-# file that is a WIP
-#chapter11_organize-file
-chapter12_design-and-deploy-cmd-line-programs
+# WIP files
+#chapter12_design-and-deploy-cmd-line-programs
+chapter13_web-scraping
+chapter14_excel
+chapter21_graphs-and-imgs
